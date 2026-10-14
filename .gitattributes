@@ -1,0 +1,2 @@
+*.sh text eol=lf
+*.desktop.in text eol=lf

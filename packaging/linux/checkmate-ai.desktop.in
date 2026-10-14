@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Checkmate AI
+Comment=Play chess against an AI opponent
+Exec="@DIR@/checkmate-ai"
+Icon=@DIR@/checkmate-ai.png
+Terminal=false
+Categories=Game;BoardGame;
